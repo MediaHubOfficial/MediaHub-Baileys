@@ -1,16 +1,16 @@
 {
   "name": "Baileys",
   "version": "6.8.5",
-  "description": "Custom Baileys WhatsApp API",
+  "description": "Baileys MediaHub",
   "keywords": [
     "baileys", "whatsapp",
     "js-whatsapp", "whatsapp-api", 
     "whatsapp-web", "whatsapp-bot",
     "automation", "multi-device"
   ],
-  "homepage": "https://github.com/this-xyz/baileys#readme",
+  "homepage": "https://github.com/MediaHubOfficial/MediaHub-Baileys.git",
   "repository": {
-    "url": "git@github.com:this-xyz/baileys.git"
+    "url": "git@github.com/MediaHubOfficial/MediaHub-Baileys.git"
   },
   "license": "MIT-License",
   "author": "this-xyz",
